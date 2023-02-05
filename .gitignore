@@ -4,3 +4,4 @@ release
 Makefile**
 **.user.**
 object_script**
+compile_commands.json
